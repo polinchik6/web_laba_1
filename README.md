@@ -2,7 +2,7 @@
 
 📌 Описание задания Создать веб-сервер в Docker с использованием Nginx и подключить HTML-страницу. Результат доступен по адресу http://localhost:8080.
 
-⚙️ Как запустить проект Клонируйте репозиторий: git clone https://github.com/polinchik6/web_laba_1.git<ссылка на репозиторий> cd nginx-lab Запустите контейнеры:
+⚙️ Как запустить проект Клонируйте репозиторий: git clone https://github.com/polinchik6/web_laba_1.git<--ссылка на репозиторий cd nginx-lab Запустите контейнеры:
 
 docker-compose up -d --build Открыть в браузере: http://localhost:8080 📂 Содержимое проекта
 
